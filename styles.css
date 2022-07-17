@@ -63,6 +63,10 @@ display: flex;
     margin-left: 40px;
 }
 
+hr{
+    margin: 10px 0;
+}
+
 /* SHOWCASE */
 .showcase{
     width: 100%;
@@ -90,4 +94,9 @@ display: flex;
 
 .btn:hover{
     opacity: .7;
+}
+
+.showcase h2,
+.showcase p{
+    margin-bottom: 10px;
 }
