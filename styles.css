@@ -157,3 +157,21 @@ hr{
     padding: 90px 0 0 30px;
     color: #e8d4b6;
 }
+
+.cards__banner__one p,
+.cards__banner__one h2{
+    margin: 10px 0 20px 0;
+}
+
+/*CARDS BANNER TWO*/
+.cards__banner__two{
+    width: 100%;
+    height: 350px;
+    background: url('./img/pexels-iva-muškić-691710.jpg')no-repeat center center/cover;
+}
+
+.cards__banner__two .content{
+    width: 50%;
+    padding: 100px 0 0 30px;
+    color: #ffffff;
+}
