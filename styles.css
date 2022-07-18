@@ -143,3 +143,17 @@ hr{
 .news__cards a:hover{
     text-decoration: underline;
 }
+
+/* CARDS BANNER ONE */
+.cards__banner__one{
+    width: 100%;
+    height: 350px;
+    background: url('./img/vlado-paunovic-iBG594vhR1k-unsplash.jpg') no-repeat center center/cover;
+    margin-bottom: 40px;
+}
+
+.cards__banner__one .content{
+    width: 40%;
+    padding: 90px 0 0 30px;
+    color: #e8d4b6;
+}
