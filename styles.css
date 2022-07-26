@@ -91,16 +91,10 @@ hr{
     justify-content: flex-end;
 }
 
-.showcase__text__container{
-    width: 95%;
-    background: #D9D9D926;
-    border-radius: 15px;
-}
-
 .showcase h2,
 .showcase p{
     margin-bottom: 10px;
-    color: #00A795;
+    color: #e8d4b6;
 }
 
 .btn{
